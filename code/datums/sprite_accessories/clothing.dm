@@ -125,7 +125,7 @@
 	digi_icon_state = "boxers_stripe_threecolor"
 	greyscale_colors = "#D62626#EEEEEE#D62626#"
 
-/datum/sprite_accessory/clothing/underwear/male_commie
+/* /datum/sprite_accessory/clothing/underwear/male_commie
 	name = "Commie Boxers"
 	icon_state = "male_commie"
 	gender = MALE
@@ -148,7 +148,7 @@
 	use_static = TRUE
 	digi_icon_state = "boxers_stripe_threecolor"
 	greyscale_colors = "#D62626#EEEEEE#2E26D6"
-
+*/
 //FEMALE UNDERWEAR
 /datum/sprite_accessory/clothing/underwear/female_bikini
 	name = "Bikini"
@@ -230,7 +230,7 @@
 	icon_state = "female_neko_black"
 	gender = FEMALE
 	use_static = TRUE
-
+/*
 /datum/sprite_accessory/clothing/underwear/female_commie
 	name = "Commie Bikini"
 	icon_state = "female_commie"
@@ -248,7 +248,7 @@
 	icon_state = "female_uk"
 	gender = FEMALE
 	use_static = TRUE
-
+*/
 /datum/sprite_accessory/clothing/underwear/female_kinky
 	name = "Lingerie"
 	icon_state = "female_kinky"
@@ -329,11 +329,11 @@
 	icon_state = "shirt_clown"
 	gender = NEUTER
 
-/datum/sprite_accessory/clothing/undershirt/commie
+/* /datum/sprite_accessory/clothing/undershirt/commie
 	name = "Shirt (Commie)"
 	icon_state = "shirt_commie"
 	gender = NEUTER
-
+*/
 /datum/sprite_accessory/clothing/undershirt/greenshirt
 	name = "Shirt (Green)"
 	icon_state = "shirt_green"
@@ -349,11 +349,11 @@
 	icon_state = "ian"
 	gender = NEUTER
 
-/datum/sprite_accessory/clothing/undershirt/ilovent
+/*/datum/sprite_accessory/clothing/undershirt/ilovent
 	name = "Shirt (I Love NT)"
 	icon_state = "ilovent"
 	gender = NEUTER
-
+*/
 /datum/sprite_accessory/clothing/undershirt/lover
 	name = "Shirt (Lover)"
 	icon_state = "lover"
@@ -369,11 +369,11 @@
 	icon_state = "shirt_meat"
 	gender = NEUTER
 
-/datum/sprite_accessory/clothing/undershirt/nano
+/*/datum/sprite_accessory/clothing/undershirt/nano
 	name = "Shirt (Nanotrasen)"
 	icon_state = "shirt_nano"
 	gender = NEUTER
-
+*/
 /datum/sprite_accessory/clothing/undershirt/peace
 	name = "Shirt (Peace)"
 	icon_state = "peace"
@@ -399,11 +399,11 @@
 	icon_state = "shirt_skull"
 	gender = NEUTER
 
-/datum/sprite_accessory/clothing/undershirt/ss13
+/*/datum/sprite_accessory/clothing/undershirt/ss13
 	name = "Shirt (SS13)"
 	icon_state = "shirt_ss13"
 	gender = NEUTER
-
+*/
 /datum/sprite_accessory/clothing/undershirt/stripe
 	name = "Shirt (Striped)"
 	icon_state = "shirt_stripes"
@@ -574,14 +574,14 @@
 	name = "Knee-high (Black)"
 	icon_state = "black_knee"
 
-/datum/sprite_accessory/clothing/socks/commie_knee
+/*/datum/sprite_accessory/clothing/socks/commie_knee
 	name = "Knee-High (Commie)"
 	icon_state = "commie_knee"
 
 /datum/sprite_accessory/clothing/socks/usa_knee
 	name = "Knee-High (Freedom)"
 	icon_state = "assblastusa_knee"
-
+*/
 /datum/sprite_accessory/clothing/socks/rainbow_knee
 	name = "Knee-high (Rainbow)"
 	icon_state = "rainbow_knee"
@@ -598,10 +598,10 @@
 	name = "Knee-high (Trans)"
 	icon_state = "trans_knee"
 
-/datum/sprite_accessory/clothing/socks/uk_knee
+/*/datum/sprite_accessory/clothing/socks/uk_knee
 	name = "Knee-High (UK)"
 	icon_state = "uk_knee"
-
+*/
 /datum/sprite_accessory/clothing/socks/white_knee
 	name = "Knee-high (White)"
 	icon_state = "white_knee"
@@ -678,14 +678,14 @@
 	name = "Thigh-high (Black)"
 	icon_state = "black_thigh"
 
-/datum/sprite_accessory/clothing/socks/commie_thigh
+/*/datum/sprite_accessory/clothing/socks/commie_thigh
 	name = "Thigh-high (Commie)"
 	icon_state = "commie_thigh"
 
 /datum/sprite_accessory/clothing/socks/usa_thigh
 	name = "Thigh-high (Freedom)"
 	icon_state = "assblastusa_thigh"
-
+*/
 /datum/sprite_accessory/clothing/socks/rainbow_thigh
 	name = "Thigh-high (Rainbow)"
 	icon_state = "rainbow_thigh"
@@ -701,11 +701,11 @@
 /datum/sprite_accessory/clothing/socks/trans_thigh
 	name = "Thigh-high (Trans)"
 	icon_state = "trans_thigh"
-
+/*
 /datum/sprite_accessory/clothing/socks/uk_thigh
 	name = "Thigh-high (UK)"
 	icon_state = "uk_thigh"
-
+*/
 /datum/sprite_accessory/clothing/socks/white_thigh
 	name = "Thigh-high (White)"
 	icon_state = "white_thigh"
